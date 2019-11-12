@@ -11,5 +11,7 @@ styleguide
 preact/
 stats.html
 
+.vscode/*
+
 flow-coverage/
 
